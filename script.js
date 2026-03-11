@@ -108,22 +108,22 @@ const words = [
   "am i the only one who thinks this way",
   "am i going to live like this forever",
 
-  "barrister vs lawyer australia",
-  "barrister vs solicitor",
-  "bulk billed therapy",
+  "bad person",
+  "bad people",
+  "bad people's choices",
 
-  "can i seek to vary my family court order",
-  "ccs has no cctv",
-  "childcare how expensive",
+  "can i buy a new brain",
+  "can i cut out the parts of me that other people don't like",
+  "can i give myself a lobotomy",
 
   "delete search history",
-  "delusional jealousy",
-  "dv stats australia",
+  "do you need a diagnosis of psychopathy to be a psychopath",
+  "doctors near me",
 
-  "earliest memories as a child",
-  "emotional manipulation signs",
+  "earliest memories of friendship",
+  "egg recipes",
 
-  "fridge magnets",
+  "fight flight freeze response meaning",
 ];
 //search function (do not edit)
 function changeText(e) {
