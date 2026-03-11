@@ -54,26 +54,25 @@ function dropdownFun() {
   }
 }
 //end of dropdown function
-
 //start of haiku function
 //lists of variables: replace all of the 5 and 7 syllable constants in the two arrays below. The more constants you write, the more variety you will have in your poem
 const fiveSyllables = [
   "you are a blue sheep",
   "cower in the dark",
-  "pizza is a dream",
-  "hand over the cheese",
-  "parmesean is life",
-  "i am so hungry",
-  "where did odie go",
-  "get it your damn self",
-  "obey me human",
+  "i am just a lamb",
+  "birds bite on my head",
+  "i am out of luck",
+  "i am echo",
+  "give me all your shrimp",
+  "get out of my head",
+  "let me just be blue",
 ];
 const sevenSyllables = [
   "beware the filthy mammal!",
   "you will worry about it",
   "you are a four legged misfit",
   "you are a bleating no-one",
-  "yuk, no i don't want salad",
+  "give me all your bright feathers",
 ];
 //code for haiku function (do not edit)
 const buttonHaiku = document.getElementById("button-haiku");
@@ -105,9 +104,9 @@ const textInput = document.getElementById("text-input");
 //search function constants
 //play with Google search function to come up with search terms most relevant to you. Think about how these search terms tell a story. Replace all of the placeholder text below (phrases in red font) with search terms of your own. If you keep the phrases organised alphabetically, you can ensure you have enough results for each word.
 const words = [
-  "art of war free download",
-  "ask izzy",
-  "australian family law issues in the news",
+  "am i alive",
+  "am i the only one who thinks this way",
+  "am i going to live like this forever",
 
   "barrister vs lawyer australia",
   "barrister vs solicitor",
