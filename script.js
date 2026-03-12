@@ -44,9 +44,9 @@ function dropdownFun() {
   if (x === "if you're alone") {
     addText("feel lonely");
   } else if (x === "if you're surrounded by friends") {
-    addText("feel lonely");
+    addText("feel Lonely");
   } else if (x === "if you're with your family") {
-    addText("feel lonely");
+    addText("FEEL LONELY");
   } else if (x === "if you-") {
     addText("press it down");
   } else if (x === "all the time") {
