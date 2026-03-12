@@ -155,11 +155,11 @@ textInput.addEventListener("input", changeText);
 //start of code for poem
 
 const subjects =
-    "robots, pilgrims, broken families, displaced animals, right-wing militants, cyborgs".split(
+    "girls, angels, sheep, dogs, friends, foe".split(
       ","
     ),
   verbs =
-    "wander,search, cross, kneel to pray in, avoid, survey, sneak across, hide in".split(
+    "cry,search, pass, beg, judge, gossip about, plead with, hide in".split(
       ","
     ),
   objects =
