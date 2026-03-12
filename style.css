@@ -57,7 +57,7 @@ h5 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   border-radius: 10px 10px 10px 10px;
-  background-image: url("./img/clouds.jpg");
+  background-image: url("./img/title-card-header.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;

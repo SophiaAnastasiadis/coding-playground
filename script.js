@@ -12,14 +12,14 @@ var speed = 50;
 
 //function for network error message
 const sent1 = [
-  "Your device is not connected.",
-  "Make sure '[—]' is turned on and in range.",
-  "Now discoverable as '[—]'.",
-  "Connection unsuccessful.",
-  "Your connection is unstable.",
-  "Out of range.",
-  "Unexpected device.",
-  "Bad connection.",
+  "You are not connected to your peers.",
+  "Make sure 'empathy' is turned on and in range.",
+  "Now discoverable as 'weirdo'.",
+  "Are you even trying?",
+  "Well not like that.",
+  "Omg you're so loud.",
+  "You're lowkey making people uncomfortable.",
+  "You talk so so much.",
 ];
 
 const buttonRetry = document.getElementById("button-network");
@@ -41,16 +41,16 @@ function addText(content) {
 //think about what use you might have for a dropdown menu: you could have someone select their 'mood' and give them an appropriate song, a bit of good or bad advice, an emoji, etc.
 function dropdownFun() {
   var x = document.getElementById("subject").value;
-  if (x === "flighty") {
-    addText("🛩️🐦🦅🦋🌪️💭");
-  } else if (x === "vague") {
-    addText("🥱👽🐙🪼🌘");
-  } else if (x === "joyful") {
-    addText("😀😍😸👾👻🕺");
-  } else if (x === "cloudy") {
-    addText("🌦️🌨️🫧🌫️☔⚡🥶");
-  } else if (x === "hangry") {
-    addText("🍟🥨🌮🥗🍱");
+  if (x === "if you're alone") {
+    addText("feel lonely");
+  } else if (x === "if you're surrounded by friends") {
+    addText("feel lonely");
+  } else if (x === "if you're with your family") {
+    addText("feel lonely");
+  } else if (x === "if you-") {
+    addText("press it down");
+  } else if (x === "all the time") {
+    addText("PRESS IT DOWN");
   }
 }
 //end of dropdown function
