@@ -124,6 +124,11 @@ const words = [
   "egg recipes",
 
   "fight flight freeze response meaning",
+  "friends ignoring me",
+
+  "good conversation starters",
+  "good schools in my area",
+
 ];
 //search function (do not edit)
 function changeText(e) {
