@@ -159,7 +159,7 @@ const subjects =
       ","
     ),
   verbs =
-    "cry,search, pass, beg, judge, gossip about, plead with, hide in".split(
+    "cry to,search, pass, beg, judge, gossip about, plead with, hide in".split(
       ","
     ),
   objects =
