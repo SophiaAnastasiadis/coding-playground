@@ -155,7 +155,7 @@ textInput.addEventListener("input", changeText);
 //start of code for poem
 
 const subjects =
-    "girls, angels, sheep, dogs, friends, foe".split(
+    "girls, angels, sheep, daemons, friends, foe".split(
       ","
     ),
   verbs =
@@ -163,7 +163,7 @@ const subjects =
       ","
     ),
   objects =
-    "the barren plains,the wilted grasslands, vast wastelands,wildernesses unknown,languishing caravan parks, arid deserts, military bunkers, valleys of ash and bone".split(
+    "the school corridor,the heavens, recesses in the mind, horizons unknown, empty group chats, fields of dreams, dollhouses, blades of grass".split(
       ","
     );
 // set up the counter
